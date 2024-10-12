@@ -1,0 +1,6 @@
+/.conda
+/.venv
+__pycache__
+report/*
+!report/main.tex
+!report/main.pdf
